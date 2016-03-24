@@ -81,4 +81,4 @@ tidy_average_data <- aggregate(selected1[, 4:ncol(selected1)],
                        by=list(subject = selected1$subject, 
                                Activity_desc = selected1$Activity_desc),
                        mean)
-write.table(tidy_average_data, file = "tidy_average_data.txt", sep = " ", col.names = TRUE)
+write.table(tidy_average_data, file = "tidy_average_data.txt", sep = " ", col.names = FALSE)
