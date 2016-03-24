@@ -1,5 +1,5 @@
-## getting and clening data assignment
-In this assignment
+## getting and cleaning data assignment
+###In this assignment
 Using data set from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 to clean the data into a tidy data set for futher analysis
