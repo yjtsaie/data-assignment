@@ -1,4 +1,5 @@
-# Cookbook of tidy data set "tidy_average_data": the average of each variable/sensor data statistics for each activity and each subject.
+# Cookbook of tidy data set "tidy_average_data" 
+## the average of each variable/sensor data statistics for each activity and each subject.
 [1] "subject"                             				 "Activity_desc"                       
  [3] "tBodyAcc-mean()-X"                   			 "tBodyAcc-mean()-Y"                   
  [5] "tBodyAcc-mean()-Z"                   			 "tBodyAcc-std()-X"                    
